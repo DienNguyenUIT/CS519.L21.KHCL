@@ -1,5 +1,4 @@
-# CS519.L21.KHCL
-## Phương pháp luận nghiên cứu khoa học
+# CS519.L21.KHCL - Phương pháp luận nghiên cứu khoa học
   
 **Thông tin nhóm**
 
