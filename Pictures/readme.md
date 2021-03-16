@@ -66,7 +66,8 @@ Một chức năng đặc biệt của Google thường bị quên lãng đó l�
 	Mẹo này hướng đến học sinh và dân kinh doanh liên quan đến ngoại tệ, nhưng bạn sẽ ngạc nhiên khi biết được có vô số người với nghề nghiệp khác nhau cũng đang sử dụng nó.
 
 10. Tìm hành lý
-	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/tim_hanh_ly.jpg)
+
+![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/tim_hanh_ly.jpg)
 Cuối cùng chính là dùng Google Search để tìm ra vị trí hành lý của bạn hiện giờ. Bạn có nhập trực tiếp mã hành lý của mình vào thanh tìm kiếm của Google cho dù bạn đang sử dụng dịch vụ của UPS, USPS hay Fedex và nó sẽ cho bạn biết chính xác hiện tại hành lý bạn đang ở đâu. Điều này dễ dàng hơn rất nhiều so với việc truy cập vào website của những dịch vụ này, chờ đợi tải chương trình và sau đó mới tìm hành lý của bạn ở đó. Chỉ cần đơn giản nhập mã số hành lý của bạn và enter, thế là xong.
 
 Lời kết:
