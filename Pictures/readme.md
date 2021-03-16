@@ -1,4 +1,3 @@
-
 QT11: TÌM KIẾM GOOGLE NÂNG CAO
 Hãy cho biết các tính năng tìm kiếm nâng cao của Google để tìm kiếm thông tin hiệu quả hơn.
 
@@ -19,37 +18,35 @@ Ví dụ như khi cần tìm một bài viết hay một nội dung cụ thể n
 
 	Khi sử dụng cú pháp như vậy, bạn sẽ có được rất nhiều nội dung liên quan đến laptop của hãng Dell nhưng chỉ trong phạm vi của trang web dell.com, còn tất cả những kết quả khác đều không được hiển thị.
 	Trường hợp nếu không dùng cú pháp trên thì kết quả sẽ như hình bên dưới, các kết quả trả về đều thuộc rất nhiều trang web khác nhau.
-	[Thêm hình]
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/site_dell.PNG)
 
 4. Dùng dấu sao (*) để thay thế
 Cách hoạt động của nó là: Khi bạn sử dụng dấu sao để thay thế cho một ký tự hay từ ngữ nào đó, Google Search sẽ tự động làm đầy nó sau. Thao tác này là một cách thông minh để tìm lời của bài hát nếu bạn không thể thuộc hết chúng. Ví dụ như cú pháp dưới đây:
 
 	I remembered black skies * me
 	Câu trên là một đoạn trong bài hát New Divide của nhóm nhạc Linkin Park
-	[Thêm hình]
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/dung_dau_sao_de_thay_the.PNG)
 
 5. Sử dụng Google để tính toán
 	Thanh tìm kiếm của Google còn có thể thực hiện những phép tính toán khi bạn nhập vào một dãy phép tính hoặc các giá trị hằng số, ví dụ như:
 	100 + 20 + 1
 	Planck's Constant
-	[Thêm 2 hình nằm ngang, kế nhau]
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/calculator_1.PNG) ![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/planck_constant.PNG)
 	Hoặc bạn cũng có thể gõ từ "calculator" vào thanh tìm kiếm rồi nhấn tìm kiếm để Google hiện ra một máy tính online như hình dưới:
-	[Thêm một hình]
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/calculator_2.PNG)
 
 6. Tìm một dãy số
 Khi bạn cần tìm bài viết, thông tin, website có chứa một con số nào đó thì bạn chỉ đơn giản là nhập con số đó vào thanh tìm kiếm. Còn nếu muốn tìm các thông tin có liên quan đến các số nằm trong một dãy số cụ thể thì cú pháp sẽ là dùng hai dấu chấm để cho Google biết bạn đang tìm một dãy số cụ thể, ví dụ:
 
 	41 ..45
-
-	[Thêm hình]
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/tim_mot_day_so.PNG)
 	kết quả hiển thị sẽ là 41, 42, 43, 44 và 45. Cách dùng này có vẻ hơi mơ hồ, nhưng nó sẽ khá hữu ích khi bạn tình cờ cần tìm những con số như thế.
 
 7. Từ khóa đơn giản
 Google có thể tìm thấy rất nhiều thứ. Điều đó có nghĩa là bạn chẳng cần phải nhập mọi thứ một cách quá chi tiết. Nếu muốn tìm địa điểm những cây atm ở gần bạn, hãy nhập như sau:
 
 	các cây atm gần đây
-
-	[Thêm hình]
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/cac_cay_atm_gan_day.PNG)
 
 	Hệ thống tìm kiếm Google sẽ định vị vị trí của bạn, sau đó sẽ đưa ra những lựa chọn gần nơi bạn đang ở nhất.
 
@@ -57,12 +54,11 @@ Google có thể tìm thấy rất nhiều thứ. Điều đó có nghĩa là b�
 Một chức năng đặc biệt của Google thường bị quên lãng đó là tìm kiếm một tập tin. Đây có thể là một trợ thủ cực kỳ hữu ích nếu bạn đang cần tìm một tập tin có định dạng PDF hay tập tin Powerpoit cho dự án của mình. Hãy thử cú pháp:
 
 	*Tên loại tập tin cần tìm* filetype:pdf
-
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/tim_mot_tap_tin_cu_the.PNG)
 	Dựa theo ví dụ trên, bạn có thể dễ dàng thay đổi tên và đuôi định dạng của tập tin cần tìm để mở rộng, thỏa mãn nhu cầu tìm kiếm đa dạng. Đây là thứ có ích nhất dành cho những mục đích mang tính học thuật, cả những buổi thuyết trình kinh doanh hay bất cứ thể loại thuyết trình nào cũng có thể cần đến nó.
 
 9. Quy đổi tiền tệ và đơn vị
-[Thêm ảnh]
-
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/quy_doi_tien_te.PNG)
 	Google Search có thể quy đổi một cách nhanh chóng và chính xác cả đơn vị tiền tệ và đơn vị đo lường. Ngoài ra, bạn có thể áp dụng cách này cho nhiều thứ, như là kiểm tra giá trị tiền tệ của hai quốc gia. Nếu bạn là học sinh, bạn có thể cần cách này để đổi từ đơn vị feet sang mét, hay từ ounce sang đơn vị lít. Và đây là cách thực hiện:
 
 	Mile to km - cú pháp đổi từ dặm sang km. Bạn có thể đặt một con số ở trước đơn vị để quy ra một con số xác định. Như là "10 miles to km" sẽ cho bạn biết rằng 10 dặm sẽ được bao nhiêu km.
@@ -70,7 +66,7 @@ Một chức năng đặc biệt của Google thường bị quên lãng đó l�
 	Mẹo này hướng đến học sinh và dân kinh doanh liên quan đến ngoại tệ, nhưng bạn sẽ ngạc nhiên khi biết được có vô số người với nghề nghiệp khác nhau cũng đang sử dụng nó.
 
 10. Tìm hành lý
-[Thêm hình]
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/tim_hanh_ly.jpg)
 Cuối cùng chính là dùng Google Search để tìm ra vị trí hành lý của bạn hiện giờ. Bạn có nhập trực tiếp mã hành lý của mình vào thanh tìm kiếm của Google cho dù bạn đang sử dụng dịch vụ của UPS, USPS hay Fedex và nó sẽ cho bạn biết chính xác hiện tại hành lý bạn đang ở đâu. Điều này dễ dàng hơn rất nhiều so với việc truy cập vào website của những dịch vụ này, chờ đợi tải chương trình và sau đó mới tìm hành lý của bạn ở đó. Chỉ cần đơn giản nhập mã số hành lý của bạn và enter, thế là xong.
 
 Lời kết:
