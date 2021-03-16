@@ -53,7 +53,7 @@ Google có thể tìm thấy rất nhiều thứ. Điều đó có nghĩa là b�
 8. Tìm một tập tin cụ thể
 Một chức năng đặc biệt của Google thường bị quên lãng đó là tìm kiếm một tập tin. Đây có thể là một trợ thủ cực kỳ hữu ích nếu bạn đang cần tìm một tập tin có định dạng PDF hay tập tin Powerpoit cho dự án của mình. Hãy thử cú pháp:
 
-	<Tên loại tập tin cần tìm> filetype:pdf
+	\*Tên loại tập tin cần tìm\* filetype:pdf
 	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/tim_mot_tap_tin_cu_the.PNG)
 	Dựa theo ví dụ trên, bạn có thể dễ dàng thay đổi tên và đuôi định dạng của tập tin cần tìm để mở rộng, thỏa mãn nhu cầu tìm kiếm đa dạng. Đây là thứ có ích nhất dành cho những mục đích mang tính học thuật, cả những buổi thuyết trình kinh doanh hay bất cứ thể loại thuyết trình nào cũng có thể cần đến nó.
 
