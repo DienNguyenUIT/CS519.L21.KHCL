@@ -11,7 +11,7 @@ Khi thực hiện tìm kiếm trên Google, mỗi kết quả hiện ra trên đ
 Trường hợp bạn muốn tìm kiếm một thứ gì đó cụ thể, hãy dùng dấu ngoặc kép (" "). Điều này sẽ giúp giảm tải công việc cho bộ máy tìm kiếm của Google. Khi giới hạn mục tiêu tìm kiếm trong dấu ngoặc kép thì hệ thống tìm kiếm sẽ hiểu được mục tiêu của bạn bao gồm cả câu đầy đủ. Chẳng hạn như bạn muốn tìm kiếm Puppy dog Sweater, nó sẽ hiểu được rằng chúng phải tìm kiếm bất kỳ thông tin nào có liên quan đến ba từ này mà không cần biết chúng có đầy đủ hay được sắp xếp theo thứ tự thế nào. Tuy nhiên, nếu bạn gõ "Puppy dog Sweater" thì hệ thống tìm kiếm sẽ dò tìm các câu chính xác theo những gì bạn đã nhập. Thao tác này giúp bạn định vị được những thông tin cụ thể mà đôi khi chúng bị ẩn trong những thứ khác nếu không rút ngắn nó một cách chính xác.
 
 3. Dùng dấu hai chấm (:) để tìm kiếm ở một trang web cụ thể
-Ví dụ như khi cần tìm một bài viết hay một nội dung cụ thể nào đó nhưng chỉ muốn tìm ở một trang web nhất định. Cú pháp cũng rất đơn giản.
+Ví dụ như khi cần tìm một bài viết hay một nội dung cụ thể nào đó nhưng chỉ muốn tìm ở một trang web nhất định. Cú pháp cũng rất đơn giản:
 
 	laptop site:dell.com
 	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/site_dell_com.PNG)
@@ -23,15 +23,15 @@ Ví dụ như khi cần tìm một bài viết hay một nội dung cụ thể n
 4. Dùng dấu sao (*) để thay thế
 Cách hoạt động của nó là: Khi bạn sử dụng dấu sao để thay thế cho một ký tự hay từ ngữ nào đó, Google Search sẽ tự động làm đầy nó sau. Thao tác này là một cách thông minh để tìm lời của bài hát nếu bạn không thể thuộc hết chúng. Ví dụ như cú pháp dưới đây:
 
-	I remembered black skies * me
+	I remembered black skies * me <br>
 	Câu trên là một đoạn trong bài hát New Divide của nhóm nhạc Linkin Park
 	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/dung_dau_sao_de_thay_the.PNG)
 
 5. Sử dụng Google để tính toán
-	Thanh tìm kiếm của Google còn có thể thực hiện những phép tính toán khi bạn nhập vào một dãy phép tính hoặc các giá trị hằng số, ví dụ như:
-	100 + 20 + 1
-	Planck's Constant
-	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/calculator_1.PNG) ![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/planck_constant.PNG)
+	Thanh tìm kiếm của Google còn có thể thực hiện những phép tính toán khi bạn nhập vào một dãy phép tính hoặc các giá trị hằng số, ví dụ như: <br>
+	100 + 20 + 1 <br>
+	Planck's Constant <br>
+	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/calculator_1.PNG) ![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/planck_constant.PNG) <br>
 	Hoặc bạn cũng có thể gõ từ "calculator" vào thanh tìm kiếm rồi nhấn tìm kiếm để Google hiện ra một máy tính online như hình dưới:
 	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/calculator_2.PNG)
 
@@ -53,7 +53,7 @@ Google có thể tìm thấy rất nhiều thứ. Điều đó có nghĩa là b�
 8. Tìm một tập tin cụ thể
 Một chức năng đặc biệt của Google thường bị quên lãng đó là tìm kiếm một tập tin. Đây có thể là một trợ thủ cực kỳ hữu ích nếu bạn đang cần tìm một tập tin có định dạng PDF hay tập tin Powerpoit cho dự án của mình. Hãy thử cú pháp:
 
-	*Tên loại tập tin cần tìm* filetype:pdf
+	<Tên loại tập tin cần tìm> filetype:pdf
 	![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/tim_mot_tap_tin_cu_the.PNG)
 	Dựa theo ví dụ trên, bạn có thể dễ dàng thay đổi tên và đuôi định dạng của tập tin cần tìm để mở rộng, thỏa mãn nhu cầu tìm kiếm đa dạng. Đây là thứ có ích nhất dành cho những mục đích mang tính học thuật, cả những buổi thuyết trình kinh doanh hay bất cứ thể loại thuyết trình nào cũng có thể cần đến nó.
 
