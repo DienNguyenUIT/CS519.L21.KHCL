@@ -1,7 +1,7 @@
 # Papers With Code
 Papers with Code là một trang cung cấp nguồn tài nguyên mở và miễn phí với các bài báo, nghiên cứu và source code liên quan trong lĩnh vực Machine Learning.
 
-## Một số papers mẫu:
+## Một số papers:
 
 | Tên bài báo | Link |
 | ------ | ------ |
