@@ -5,7 +5,7 @@ Hãy cho biết các tính năng tìm kiếm nâng cao của Google để tìm k
 Google Search là một công cụ tìm kiếm rất hữu ích, nhưng không phải ai cũng có thể biết và sử dụng được hết cách tính năng của Google Search. Những tính năng đó có thể góp phần rất lớn khiến việc tìm kiếm thông tin của chúng ta dễ dàng hơn, sau đây là 10 tính năng sẽ giúp bạn nâng cao được khả năng sử dụng Google Search.
 
 1. Sử dụng thanh định dạng
-![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/1_thanh_dinh_dang.PNG)
+![](https://github.com/DienNguyenUIT/CS519.L21.KHCL/blob/main/Pictures/thanh_dinh_dang.PNG)
 Khi thực hiện tìm kiếm trên Google, mỗi kết quả hiện ra trên đầu trang thường xuất hiện một số tiêu đề định dạng như All, Images, Videos, News,... Việc sử dụng tiêu đề định dạng giúp xác định được các thể loại thông tin mà bạn đang muốn tìm hiểu. Nếu cần tìm hình ảnh, hãy sử dụng thanh "Images", còn nếu muốn tìm những video thì nhấn vào "Videos",...
 
 2. Dùng dấu ngoặc kép " "
